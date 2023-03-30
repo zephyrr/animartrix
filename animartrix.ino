@@ -110,8 +110,12 @@ void setup() {
 
 void loop() {
 
+  Zoom();
+  //Hot_Blob();
+  //Spiralus2();
+  //Spiralus();
   //Yves();
-  Scaledemo1();
+  //Scaledemo1();
   //Lava1();
   //Caleido3();
   //Caleido2();
@@ -119,7 +123,7 @@ void loop() {
   //Distance_Experiment();
   //Center_Field();
   //Waves();
-  Chasing_Spirals();
+  //Chasing_Spirals();
   //Rotating_Blob();
   //Rings();
 
