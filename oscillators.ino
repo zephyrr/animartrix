@@ -1,5 +1,5 @@
 
-void calculate_oscillators(oscillators &timings) {
+void calculate_oscillators(oscillators &timings) { 
 
   double runtime = millis() * timings.master_speed;  // global anaimation speed
 
